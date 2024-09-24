@@ -9039,3 +9039,7 @@
 {"level": "debug", "msg": "update_data", "asctime": "2024-09-24 09:23:45.736"}
 {"level": "info", "msg": "get_data", "asctime": "2024-09-24 09:23:50.739"}
 {"level": "debug", "msg": "update_data", "asctime": "2024-09-24 09:23:55.745"}
+{"level": "warning", "msg": "set_data", "asctime": "2024-09-24 09:37:37.785"}
+{"level": "error", "msg": "get_data", "asctime": "2024-09-24 09:37:42.834"}
+{"level": "warning", "msg": "set_data", "asctime": "2024-09-24 09:37:47.835"}
+{"level": "warning", "msg": "set_data", "asctime": "2024-09-24 09:37:52.893"}
