@@ -9023,3 +9023,8 @@
 {"level": "error", "msg": "get_data", "asctime": "2024-09-23 21:36:14.300"}
 {"level": "debug", "msg": "get_data", "asctime": "2024-09-23 21:36:19.301"}
 {"level": "info", "msg": "get_data", "asctime": "2024-09-23 21:36:24.302"}
+{"level": "info", "msg": "get_data", "asctime": "2024-09-24 08:26:30.094"}
+{"level": "warning", "msg": "set_data", "asctime": "2024-09-24 08:26:35.125"}
+{"level": "error", "msg": "set_data", "asctime": "2024-09-24 08:26:40.126"}
+{"level": "warning", "msg": "set_data", "asctime": "2024-09-24 08:26:45.127"}
+{"level": "info", "msg": "set_data", "asctime": "2024-09-24 08:26:50.136"}
