@@ -50,7 +50,6 @@ services:
     image: nginx:latest
     volumes:
       - ./nginx.conf:/etc/nginx/nginx.conf  # Монтируем конфигурацию Nginx
-      - /var/log/nginx:/var/log/nginx  # Монтируем логи
     ports:
       - "80:80"
 
